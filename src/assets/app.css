@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.chroma {
+  background: linear-gradient(to right, #6666ff, #0099ff, #00ff00, #ff3399, #6666ff);
+  background-clip: text;
+  color: transparent;
+  animation: chroma 6s ease-in-out infinite;
+  background-size: 400% 100%;
+  text-shadow: 1px 1px 0 #00000010;
+}
+
+@keyframes chroma {
+  0%,
+  100% {
+    background-position: 0 0;
+  }
+
+  50% {
+    background-position: 100% 0;
+  }
+}
+
+.parsing-error,
+.unknown-color-code {
+  background: red;
+  color: white;
+  text-transform: lowercase;
+}

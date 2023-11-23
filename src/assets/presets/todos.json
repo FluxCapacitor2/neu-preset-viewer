@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Pest Cooldown",
+    "author": "obsidianninja11",
+    "link": "https://discord.com/channels/516977525906341928/883043522880630825/1175970273661558785",
+    "preset": "TkVVOkNVU1RPTVRPRE8veyJsYWJlbCI6IlBlc3QiLCJ0aW1lciI6MzAwLCJ0cmlnZ2VyIjoiLipQZXN0LiogaW4gUGxvdCAtLioiLCJpY29uIjoidG50X21pbmVjYXJ0IiwiaXNSZXNldE9mZnNldCI6ZmFsc2UsInRyaWdnZXJUYXJnZXQiOiJDSEFUIiwidHJpZ2dlck1hdGNoZXIiOiJSRUdFWCIsInJlYWR5QXQiOnt9LCJlbmFibGVkIjp7fX0="
+  },
+  {
+    "name": "Pest Repellent Timer",
+    "author": "alexiaya",
+    "link": "https://discord.com/channels/516977525906341928/883043522880630825/1175079322160205894",
+    "preset": "TkVVOkNVU1RPTVRPRE8veyJsYWJlbCI6IlBlc3QgUmVwZWxsZW50IiwidGltZXIiOjM2MDAsInRyaWdnZXIiOiJZVU0hIFBlc3RzIHdpbGwgbm93IHNwYXduIFxcZHggbGVzcyB3aGlsZSB5b3UgYnJlYWsgY3JvcHMgZm9yIHRoZSBuZXh0IDYwbSEiLCJpY29uIjoibWluZWNhcnQiLCJpc1Jlc2V0T2Zmc2V0IjpmYWxzZSwidHJpZ2dlclRhcmdldCI6IkNIQVQiLCJ0cmlnZ2VyTWF0Y2hlciI6IlJFR0VYIiwicmVhZHlBdCI6e30sImVuYWJsZWQiOnt9fQ=="
+  },
+  {
+    "name": "Hungry Hiker - Next Feed Timer",
+    "author": "nea89",
+    "link": "https://discord.com/channels/516977525906341928/883043522880630825/1170740463582593025",
+    "preset": "TkVVOkNVU1RPTVRPRE8veyJsYWJlbCI6Ikh1bmdyeSBIaWtlcmluZyIsInRpbWVyIjo0MzIwMCwidHJpZ2dlciI6IltOUENdIEh1bmdyeSBIaWtlcjogVGhhbmtzIGZvciB0aGUgZm9vZC4uIiwiaWNvbiI6ImJlZWYiLCJpc1Jlc2V0T2Zmc2V0IjpmYWxzZSwidHJpZ2dlclRhcmdldCI6IkNIQVQiLCJ0cmlnZ2VyTWF0Y2hlciI6IkVRVUFMUyIsInJlYWR5QXQiOnt9LCJlbmFibGVkIjp7fX0="
+  },
+  {
+    "name": "Hungry Hiker - Death Timer",
+    "author": "nea89",
+    "link": "https://discord.com/channels/516977525906341928/883043522880630825/1170740463582593025",
+    "preset": "TkVVOkNVU1RPTVRPRE8veyJsYWJlbCI6Ikh1bmdyeSBIaWtlcmluZyBEZWF0aCIsInRpbWVyIjoxNzI4MDAsInRyaWdnZXIiOiJbTlBDXSBIdW5ncnkgSGlrZXI6IFRoYW5rcyBmb3IgdGhlIGZvb2QuLiIsImljb24iOiJib25lIiwiaXNSZXNldE9mZnNldCI6ZmFsc2UsInRyaWdnZXJUYXJnZXQiOiJDSEFUIiwidHJpZ2dlck1hdGNoZXIiOiJFUVVBTFMiLCJyZWFkeUF0Ijp7fSwiZW5hYmxlZCI6e319"
+  }
+]
