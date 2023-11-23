@@ -34,4 +34,11 @@
       <PresetCard {preset} />
     {/each}
   </div>
+
+  <h2 class="my-6 text-2xl font-bold">Want to add your own presets?</h2>
+  <p>
+    Open a new GitHub issue <a
+      href="https://github.com/FluxCapacitor2/neu-preset-viewer"
+      class="font-medium underline">here</a> and I'll add it to the list!
+  </p>
 </main>
