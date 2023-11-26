@@ -1,0 +1,30 @@
+[
+  {
+    "link": "https://discord.com/channels/807302538558308352/1174219351235240027/1174219351235240027",
+    "author": "ragingenby",
+    "name": "Pest Spawned",
+    "regex": "§r§6§lGROSS! §7A §6Pest §7has appeared in §a(.*)§7!§r",
+    "title": "§6§lPest Spawned!"
+  },
+  {
+    "link": "https://discord.com/channels/807302538558308352/1168660123460309033/1168660123460309033",
+    "author": "n3w0rk",
+    "name": "Primal Fear Spawned",
+    "regex": "§r§5§lFEAR. §r§eA §r§dPrimal Fear §r§ehas been summoned!§r",
+    "title": "§4§l§kc§r §c§lFEAR spawning!§r §4§l§kc"
+  },
+  {
+    "link": "https://discord.com/channels/807302538558308352/1145065133626884136/1145065133626884136",
+    "author": "jonily",
+    "name": "Commission Completed",
+    "regex": "§r§a§l(.*) §r§eCommission Complete! Visit the King §r§eto claim your rewards!§r",
+    "title": "§r§c[§z§kd§r§c] §aCOMMISION COMPLETE §r§c[§z§kd§r§c]"
+  },
+  {
+    "link": "https://discord.com/channels/807302538558308352/1128252163731247114/1128252163731247114",
+    "author": "reymaratov",
+    "name": "Agarimoo Found",
+    "regex": "§aYour Chumcap Bucket trembles, it's an Agarimoo.",
+    "title": "§ZAgarimoo!"
+  }
+]
